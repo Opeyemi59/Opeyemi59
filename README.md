@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning... C-programming language 
 - 💞️ I’m looking to collaborate on ...Web 3.0 project 
 - 📫 How to reach me...@Opeyemi59 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Opeyemi59/Opeyemi59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
