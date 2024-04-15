@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Opeyemi59
-- 👀 I’m interested in artificial intelligence 
-- 🌱 I’m currently learning C-programming language 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:iyiadeoluwakayode@gmail.com 
+- 👀 I’m interested in... Artificial intelligence 
+- 🌱 I’m currently learning... C-programming language 
+- 💞️ I’m looking to collaborate on ...Web 3.0 project 
+- 📫 How to reach me...@Opeyemi59 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
