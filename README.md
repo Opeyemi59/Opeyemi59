@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Opeyemi59
-- 👀 I’m interested in... Artificial intelligence 
-- 🌱 I’m currently learning... C-programming language 
+- 👀 I’m interested in... Artificial intelligence,cybersecurity,Data analysis
+- 🌱 I’m currently learning... C-programming language,python programming language
 - 💞️ I’m looking to collaborate on ...Web 3.0 project 
 - 📫 How to reach me...@Opeyemi59 
 
